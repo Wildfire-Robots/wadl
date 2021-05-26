@@ -1,0 +1,5 @@
+
+Grid size
+739
+Solution time (sec)
+26.168522596359253

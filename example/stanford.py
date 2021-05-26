@@ -10,7 +10,7 @@ from wadl.mission import MissionParameters
 # suvey design script
 # get file name
 # files are assumed geofences (ID, lat, long)
-file = "data/stanford.csv"
+file = "example/data/stanford.csv"
 
 # make survey
 name = 'stanford'
